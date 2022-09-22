@@ -1,0 +1,30 @@
+[GFlyingSquirrel]
+-120f, 115f, 60f, 40f // position
+1f, 1f, 1f // color
+0f, 0f, 1f // color
+
+[GFlyingSquirrel]
+-50f, 235f, 60f, 40f // position
+1f, 1f, 1f // color
+0f, 0f, 1f // color
+
+[GFlyingSquirrel]
+140f, 255f, 60f, 40f // position
+1f, 1f, 1f // color
+0f, 0f, 1f // color
+
+[GFireball]
+-140f, -100f, 20f, 35f // position
+1f, 1f, 1f // color
+0f, 0f, 1f // color
+
+[GFireball]
+10f, -100f, 20f, 35f // position
+1f, 1f, 1f // color
+0f, 0f, 1f // color
+
+[GFireball]
+150f, -100f, 20f, 35f // position
+1f, 1f, 1f // color
+0f, 0f, 1f // color
+
